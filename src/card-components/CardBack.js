@@ -17,9 +17,7 @@ export default class CardBack extends Component {
       
     }
     
-    return `
-    
-    `
+    return <h4>No Rating Found</h4>
   }
 
   render() {
