@@ -19,7 +19,7 @@ export default class CardBack extends Component {
       <div className="card-back">
         <h3 className="title"></h3>
         <span />
-          
+          {this.generateRatingElement()}
         <span />
         <h5 className="genres"></h5>
       </div>
