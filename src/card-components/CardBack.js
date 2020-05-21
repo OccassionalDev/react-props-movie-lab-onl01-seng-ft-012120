@@ -13,8 +13,13 @@ export default class CardBack extends Component {
   generateRatingElement = () => {
     // implement meeeee! See the readme for instructions
     
-    if (this.props.IMDBRating)
-    return 
+    if (this.props.IMDBRating !== null) {
+      
+    }
+    
+    return `
+    
+    `
   }
 
   render() {
