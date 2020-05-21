@@ -12,6 +12,8 @@ export default class CardBack extends Component {
 
   generateRatingElement = () => {
     // implement meeeee! See the readme for instructions
+    
+    return 
   }
 
   render() {
